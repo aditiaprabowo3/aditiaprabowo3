@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, I'm Aditia Prabowo 👋 👩🏾‍💻
 
-<!--
-**aditiaprabowo3/aditiaprabowo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Web and Mobile Development](https://pbs.twimg.com/profile_banners/974795793142988805/1703685691/1080x360)
 
-Here are some ideas to get you started:
+I'm Aditia prabowo from Indonesia, I design and develop beautiful apps & web to help many people.I really like mobile development using native and hybrid such as Jetpack Compose, Swift, Flutter, and React Native. I also really like UI/UX design such as process design, wireframing, Visual Design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Experience
+* 📱 Flutter
+* 📱 Jetpack Compose
+* ⚛ React
+* 💻 HTML, CSS, JS
+
+## Find me around the web 🌎: 
+- My Social Media <a href="https://www.instagram.com/aditia_design">Instagram</a> 📹 ✍🏾
+- My Design <a href="https://codepen.io/m0nica](https://dribbble.com/aditiaprabowo"> Dribbble</a> 🏓
+- My Linkedin <a href="https://www.linkedin.com/in/aditia-prabowo-109a00228/">LinkedIn</a> 💼
