@@ -1,6 +1,6 @@
 # Hi, I'm Aditia Prabowo 👋 
 
-![Web and Mobile Development](https://pbs.twimg.com/profile_banners/974795793142988805/1703685691/1080x360)
+![Web and Mobile Development](https://pbs.twimg.com/profile_banners/974795793142988805/1704041467/1500x500)
 
 I'm Aditia prabowo from Indonesia, I design and develop beautiful apps & web to help many people.I really like mobile development using native and hybrid such as Jetpack Compose, Swift, Flutter, and React Native. I also really like UI/UX design such as process design, wireframing, Visual Design.
 
