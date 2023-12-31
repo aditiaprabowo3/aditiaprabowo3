@@ -1,4 +1,4 @@
-# Hi, I'm Aditia Prabowo 👋 👩🏾‍💻
+# Hi, I'm Aditia Prabowo 👋 
 
 ![Web and Mobile Development](https://pbs.twimg.com/profile_banners/974795793142988805/1703685691/1080x360)
 
