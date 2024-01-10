@@ -8,7 +8,7 @@ I'm Aditia prabowo from Indonesia, I design and develop beautiful apps & web to 
 * 📱 Flutter
 * 📱 Jetpack Compose
 * ⚛ React
-* 💻 HTML, CSS, JS
+* 💻 HTML, CSS, Javascript
 
 <a href="https://github.com/aditiaprabowo3">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditiaprabowo3&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
