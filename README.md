@@ -4,11 +4,13 @@
 
 I'm Aditia prabowo from Indonesia, I design and develop beautiful apps & web to help many people.I really like mobile development using native and hybrid such as Jetpack Compose, Swift, Flutter, and React Native. I also really like UI/UX design such as process design, wireframing, Visual Design.
 
-## Skills and Experience
+## Tech stack I use
 * 📱 Flutter
 * 📱 Jetpack Compose
 * ⚛ React
 * 💻 HTML, CSS, Javascript
+* Tailwind & Boostrap
+* Figma
 
 <a href="https://github.com/aditiaprabowo3">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditiaprabowo3&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
