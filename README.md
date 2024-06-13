@@ -5,10 +5,10 @@
 I'm Aditia prabowo from Indonesia, I design and develop beautiful apps & web to help many people.I really like mobile development using native and hybrid such as Jetpack Compose, Swift, Flutter, and React Native. I also really like UI/UX design such as process design, wireframing, Visual Design.
 
 ## Tech stack I use
-* 📱 Flutter
-* 📱 Jetpack Compose
-* ⚛ React
-* 💻 HTML, CSS, Javascript
+* Flutter
+* Jetpack Compose
+* React
+* HTML, CSS, Javascript
 * Tailwind & Boostrap
 * Figma
 
@@ -18,6 +18,6 @@ I'm Aditia prabowo from Indonesia, I design and develop beautiful apps & web to 
 </a>
 
 ## Find me around the web 🌎: 
-- My Social Media <a href="https://www.instagram.com/aditia_design">Instagram</a> 📹 ✍🏾
+- My Social Media <a href="https://www.instagram.com/aditia_design">Instagram</a> 📹 
 - My Design <a href="https://dribbble.com/aditiaprabowo"> Dribbble</a> 🏓
 - My Linkedin <a href="https://www.linkedin.com/in/aditia-prabowo-109a00228/">LinkedIn</a> 💼
