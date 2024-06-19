@@ -16,6 +16,5 @@ I design and develop beautiful apps & web to help many people.I really like mobi
 </a>
 
 ## Find me around the web 🌎: 
-- My Social Media <a href="https://www.instagram.com/aditia_design">Instagram</a> 📹 
 - My Design <a href="https://dribbble.com/aditiaprabowo"> Dribbble</a> 🏓
 - My Linkedin <a href="https://www.linkedin.com/in/aditia-prabowo-109a00228/">LinkedIn</a> 💼
