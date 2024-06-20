@@ -2,7 +2,7 @@
 
 I design and develop beautiful apps and websites to help many people. I have a strong passion for mobile development using both native and hybrid frameworks such as Jetpack Compose, Flutter, and React Native. Additionally, I am deeply interested in UI/UX design, including process design, wireframing, and visual design.
 
-#tech stack that I like
+# tech stack that I like
 * Flutter
 * Jetpack Compose
 * React
