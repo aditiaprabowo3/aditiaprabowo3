@@ -4,8 +4,8 @@ I design and develop beautiful apps and web to help many people. I have a strong
 
 Tech stack that I like :
 * Flutter
-* Jetpack Compose
 * React
+* React Native
 * HTML, CSS, Javascript
 * Python
 * Tailwind & Boostrap
