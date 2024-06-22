@@ -6,6 +6,7 @@ Tech stack that I like :
 * React
 * React Native
 * HTML, CSS, Javascript
+* Typescript
 * Node.js
 * Python
 * Tailwind
