@@ -3,7 +3,6 @@
 I design and develop beautiful apps and web to help many people.
 
 Tech stack that I like :
-* Flutter
 * React
 * React Native
 * HTML, CSS, Javascript
