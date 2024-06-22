@@ -7,6 +7,7 @@ Tech stack that I like :
 * Jetpack Compose
 * React
 * HTML, CSS, Javascript
+* Python
 * Tailwind & Boostrap
 * Figma
 
