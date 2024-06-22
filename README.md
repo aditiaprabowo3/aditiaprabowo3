@@ -3,11 +3,11 @@
 I design and develop beautiful apps and web to help many people.
 
 Tech stack that I like :
+* HTML, CSS, Javascript
 * React
 * React Native
-* HTML, CSS, Javascript
-* Typescript
 * Node.js
+* Typescript
 * Python
 * Tailwind
 * Figma
