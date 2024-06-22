@@ -1,6 +1,6 @@
 # Hi, I'm Aditia Prabowo 👋 
 
-I design and develop beautiful apps and web to help many people. I have a strong passion for mobile development using both native and hybrid frameworks such as Jetpack Compose, Flutter, and React Native. Additionally, I am deeply interested in UI/UX design, including process design.
+I design and develop beautiful apps and web to help many people.
 
 Tech stack that I like :
 * Flutter
