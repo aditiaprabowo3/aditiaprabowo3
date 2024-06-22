@@ -6,8 +6,9 @@ Tech stack that I like :
 * React
 * React Native
 * HTML, CSS, Javascript
+* Node.js
 * Python
-* Tailwind & Boostrap
+* Tailwind
 * Figma
 
 <a href="https://github.com/aditiaprabowo3">
