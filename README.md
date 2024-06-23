@@ -8,7 +8,7 @@ Tech stack that I like :
 * Node.js
 * Typescript
 * Python
-* ailwind
+* Tailwind css
 * Figma
 
 ## Find me around the web🌎 
