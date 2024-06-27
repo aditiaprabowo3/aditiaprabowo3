@@ -10,6 +10,7 @@ Tech stack that I use:
 * Python
 * Tailwind css
 * Figma
+* Graph
 
 ## Find me around the web🌎 
 - My Design <a href="https://dribbble.com/aditiaprabowo"> Dribbble</a> 🏓
