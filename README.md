@@ -2,7 +2,7 @@
 
 I design and develop beautiful apps and web to help many people
 
-Tech stack that I like:
+Tech stack that I lik
 * React
 * React Native
 * Node.js
