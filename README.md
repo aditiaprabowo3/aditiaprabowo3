@@ -14,4 +14,4 @@ Tech stack that I use:
 
 ## Find me around the web🌎 
 - My Design <a href="https://dribbble.com/aditiaprabowo"> Dribbble</a> 
-- My Linkedin <a href="https://www.linkedin.com/in/aditia-prabowo-109a00228/">LinkedIn</a> 💼
+- My Linkedin <a href="https://www.linkedin.com/in/aditia-prabowo-109a00228/">LinkedIn</a> 
