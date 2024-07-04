@@ -12,4 +12,3 @@ Tech stack that I use:
 * Figma
 * Postgresql
 
-
