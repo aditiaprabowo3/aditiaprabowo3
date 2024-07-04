@@ -13,5 +13,3 @@ Tech stack that I use:
 * Postgresql
 
 
-
-
