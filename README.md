@@ -13,5 +13,5 @@ Tech stack that I use:
 * Postgresql
 
 
-- My Design : <a href="https://dribbble.com/aditiaprabowo"> Dribbble</a> 
+
 
