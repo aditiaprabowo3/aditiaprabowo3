@@ -11,4 +11,3 @@ Tech stack that I use:
 * Tailwind css
 * Figma
 * Postgresql
-
