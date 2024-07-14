@@ -10,5 +10,4 @@ I really like:
 * Typescript
 * Python
 * Tailwind css
-* Figma
 * Postgresql
