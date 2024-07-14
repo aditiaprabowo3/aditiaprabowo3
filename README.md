@@ -2,7 +2,7 @@
 
 I like design and develop beautiful apps and web 
 
-Tech stack that I
+Tech stack that 
 * React
 * React Native
 * Next JS
