@@ -2,7 +2,7 @@
 
 I like design and develop beautiful apps and web
 
-I really li
+I really
 * React
 * React Native
 * Next JS
