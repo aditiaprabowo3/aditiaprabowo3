@@ -6,7 +6,5 @@ I like design and develop beautiful apps and web
 * React Native
 * Next JS
 * Node.js
-* Typescript
-* Python
 * Tailwind css
 * Postgresql
