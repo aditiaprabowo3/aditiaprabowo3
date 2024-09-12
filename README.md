@@ -7,6 +7,6 @@ I like design and develop beautiful apps and web
 * React Native
 * Next JS
 * Node js
-* Tailwind cs
+* Tailwind c
 * Postgresql
 * GraphQL
