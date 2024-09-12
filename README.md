@@ -1,5 +1,4 @@
 # Hi, I'm Aditia Prabowo 👋
-
 I like design and develop beautiful apps and web
 
 * Typescript
