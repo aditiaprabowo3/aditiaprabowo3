@@ -9,4 +9,3 @@ I like design and develop beautiful apps and web
 * Node js
 * Tailwind CSS
 * Postgresql
-  
