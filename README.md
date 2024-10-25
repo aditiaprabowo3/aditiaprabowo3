@@ -1,6 +1,7 @@
 # Hi, I'm Aditia Prabowo 👋
 I like design and develop beautiful apps and web
 
+* Javascript
 * Typescript
 * Python
 * React
@@ -8,4 +9,4 @@ I like design and develop beautiful apps and web
 * Next JS
 * Node js
 * Tailwind CSS
-* Postgresql
+* Postgresq
