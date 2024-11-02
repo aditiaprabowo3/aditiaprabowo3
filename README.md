@@ -1,4 +1,4 @@
-# Hi, I'm Aditia Pr 👋
+# Hi, I'm Aditia👋
 I like design and develop beautiful apps and web
 
 * Javascript
