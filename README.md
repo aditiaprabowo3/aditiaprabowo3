@@ -1,5 +1,5 @@
 # Hi, I'm Aditia👋
-I like design and develop beautiful apps
+I like design and develop beautiful apps and web
 
 * Javascript
 * Typescript
