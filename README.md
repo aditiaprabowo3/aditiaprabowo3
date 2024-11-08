@@ -9,4 +9,4 @@ I like design and develop beautiful apps and web
 * Next JS
 * Node js
 * Tailwind CSS
-* Post
+* Po
