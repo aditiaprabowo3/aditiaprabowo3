@@ -1,4 +1,4 @@
-# Hi, I'm Aditia👋
+# Hi, I'm Adit👋
 I like design and develop beautiful apps
 
 * Javascript
@@ -7,5 +7,5 @@ I like design and develop beautiful apps
 * React
 * React Native
 * Next JS
-* Node js
+* Node
 * Tailwind CSS
