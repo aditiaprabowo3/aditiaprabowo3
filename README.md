@@ -7,4 +7,4 @@ I like design and develop beautiful web
 * React
 * React Native
 * Next JS
-* Tailwind CSS
+* Tailwind Css
