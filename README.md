@@ -1,4 +1,4 @@
-# Hi, I'm Aditia Prabow👋
+# Hi, I'm Aditia Prabowo👋
 I like design and develop beautiful web
 
 * Javascript
